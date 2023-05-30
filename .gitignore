@@ -30,6 +30,7 @@
 *.blg
 *-blx.aux
 *-blx.bib
+*.PowerFolder
 *.run.xml
 
 ## Build tool auxiliary files:
