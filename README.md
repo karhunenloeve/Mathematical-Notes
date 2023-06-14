@@ -16,6 +16,5 @@
 1. [Second fundamental form.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/second_fundamental.pdf)
 1. [Curvature.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/curvature.pdf)
 1. [Geodesics.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/geodesics.pdf)
-1. [Teorema Egregium.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/egregiumls
-.pdf)
+1. [Teorema Egregium.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/egregium.pdf)
 1. [Presentations.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/presentations.pdf)
