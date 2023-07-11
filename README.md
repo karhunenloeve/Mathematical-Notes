@@ -4,6 +4,7 @@
 1. [Metric spaces.](https://karhunenloeve.github.io/Notes/topology/metric_spaces.pdf)
 1. [Homeomorphisms and connectedness.](https://karhunenloeve.github.io/Notes/topology/hom_connect.pdf)
 1. [Urysohn's Lemma and Tietze Extension Theorem.](https://karhunenloeve.github.io/Notes/topology/tietze.pdf)
+1. [Quotient Spaces and Compact Spaces.](https://karhunenloeve.github.io/Notes/topology/quotient_spaces_compact_spaces.pdf)
 
 ## Algebra
 1. [Groups.](https://karhunenloeve.github.io/Notes/algebra/groups.pdf)
