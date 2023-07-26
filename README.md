@@ -10,6 +10,7 @@
 1. [Groups.](https://karhunenloeve.github.io/Notes/algebra/groups.pdf)
 1. [Rings.](https://karhunenloeve.github.io/Notes/algebra/rings.pdf)
 1. [Elementary number theory.](https://karhunenloeve.github.io/Notes/algebra/elem_numb.pdf)
+1. [Field theory exercises I.](https://karhunenloeve.github.io/Notes/algebra/field_theory_ex_1.pdf)
 
 ## Curves and Surfaces
 1. [Tangents.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/tangents.pdf)
