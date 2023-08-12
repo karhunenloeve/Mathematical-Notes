@@ -10,6 +10,7 @@
 1. [Groups.](https://karhunenloeve.github.io/Notes/algebra/groups.pdf)
 1. [Rings.](https://karhunenloeve.github.io/Notes/algebra/rings.pdf)
 1. [Elementary number theory.](https://karhunenloeve.github.io/Notes/algebra/elem_numb.pdf)
+1. [Field theory.](https://karhunenloeve.github.io/Notes/algebra/fieldtheory.pdf)
 1. [Field theory exercises.](https://karhunenloeve.github.io/Notes/algebra/field_theory_ex.pdf)
 
 ## Curves and Surfaces
@@ -20,3 +21,6 @@
 1. [Geodesics.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/geodesics.pdf)
 1. [Teorema Egregium.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/egregium.pdf)
 1. [Presentations.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/presentations.pdf)
+
+## Optimization
+1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
