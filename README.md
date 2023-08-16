@@ -24,3 +24,8 @@
 
 ## Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
+
+## Presentations
+1. [Siemens - Schemainferenz.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
+1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Schemainferenz.pdf)
+1. [Siemens - Spaltenmapping und Schemainferenz.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Spaltenmapping_und_Schemainferenz.pdf)
