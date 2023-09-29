@@ -1,4 +1,5 @@
 # Notes
+This collection serves as an extensive repository encompassing a wide range of mathematical records, spanning from school mathematics to university mathematics at varying levels of graduation. In addition, I diligently share my personal notes, meticulously crafted during the learning journey, as well as annotated notes from lectures. These annotations may originate from my own efforts, those of my friends or acquaintances, or even directly from esteemed professors. Moreover, an assortment of captivating presentations is also made available for exploration.
 
 ## Topology
 1. [Metric spaces.](https://karhunenloeve.github.io/Notes/topology/metric_spaces.pdf)
@@ -12,6 +13,7 @@
 1. [Elementary number theory.](https://karhunenloeve.github.io/Notes/algebra/elem_numb.pdf)
 1. [Field theory.](https://karhunenloeve.github.io/Notes/algebra/fieldtheory.pdf)
 1. [Field theory exercises.](https://karhunenloeve.github.io/Notes/algebra/field_theory_ex.pdf)
+1. [True or false questions.](https://karhunenloeve.github.io/Notes/algebra/true_false.pdf)
 
 ## Curves and Surfaces
 1. [Tangents.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/tangents.pdf)
@@ -25,7 +27,9 @@
 ## Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
 
-## Presentations
+## Other Stuff
 1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
 1. [Siemens - Schemainferenz.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Schemainferenz.pdf)
 1. [Siemens - Spaltenmapping und Schemainferenz.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Spaltenmapping_und_Schemainferenz.pdf)
+1. [High school math.](https://karhunenloeve.github.io/Notes/else/Siemens-Spaltenmapping_und_Schemainferenz.pdf)
+1. [Cheat sheets.](https://karhunenloeve.github.io/Notes/cheats.pdf)
