@@ -15,6 +15,7 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Field theory.](https://karhunenloeve.github.io/Notes/algebra/fieldtheory.pdf)
 1. [Field theory exercises.](https://karhunenloeve.github.io/Notes/algebra/field_theory_ex.pdf)
 1. [True or false questions.](https://karhunenloeve.github.io/Notes/algebra/true_false.pdf)
+1. [Exercises in commutative algebra.](https://karhunenloeve.github.io/Notes/algebra/Übungen%20zur%20kommutativen%20Algebra.pdf)
 
 ## Curves and Surfaces
 1. [Tangents.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/tangents.pdf)
