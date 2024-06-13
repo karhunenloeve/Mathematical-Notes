@@ -26,6 +26,7 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Geodesics.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/geodesics.pdf)
 1. [Teorema Egregium.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/egregium.pdf)
 1. [Presentations.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/presentations.pdf)
+1. [Analysis 3 and Stochastic Modeling.](https://karhunenloeve.github.io/Notes/analysis/Analysis_3_StochMod.pdf)
 
 ## Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
