@@ -30,6 +30,11 @@ This collection serves as an extensive repository encompassing a wide range of m
 
 ## Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
+1. [Functional Analysis.](https://karhunenloeve.github.io/Notes/analysis/Funktionalanalysis.pdf)
+1. [Functional Analysis - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis.pdf)
+1. [Analysis I.](https://karhunenloeve.github.io/Notes/anki/Analysis I.pdf)
+1. [Analysis II.](https://karhunenloeve.github.io/Notes/anki/Analysis II.pdf)
+1. [Analysis III.](https://karhunenloeve.github.io/Notes/anki/Analysis III.pdf)
 
 ## Other Stuff
 1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
