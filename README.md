@@ -31,10 +31,12 @@ This collection serves as an extensive repository encompassing a wide range of m
 ## Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
 1. [Functional Analysis.](https://karhunenloeve.github.io/Notes/analysis/Funktionalanalysis.pdf)
-1. [Functional Analysis - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis.pdf)
-1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20I.pdf)
-1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II.pdf)
-1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20III.pdf)
+1. [Functional Analysis - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis. apkg)
+1. [Functional Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis%20II. apkg)
+1. [Algebraische Topologie - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20Topologie. apkg)
+1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20I.apkg)
+1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II. apkg)
+1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20III. apkg)
 
 ## Other Stuff
 1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
