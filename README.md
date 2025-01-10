@@ -38,12 +38,12 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Functional Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/FunktionalanalysisII.apkg)
 1. [Algebraische Topologie - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%Topologie.apkg)
 1. [Algebraische Topologie und Operatoralgebren.](https://karhunenloeve.github.io/Notes/Topology/Algebraic_Topology_and_Operatoralgebras.apkg)
-1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Lie%20Algebra.apkg)
-1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20I.apkg)
-1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II. apkg)
-1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20III. apkg)
-1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II.apkg)
-1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20III.apkg)
+1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/LieAlgebra.apkg)
+1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisI.apkg)
+1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisII. apkg)
+1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisIII. apkg)
+1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisII.apkg)
+1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisIII.apkg)
 
 ## Other Stuff
 1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
