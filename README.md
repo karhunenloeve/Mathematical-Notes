@@ -34,7 +34,6 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Algebraische Topologie - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AlgebraischeTopologie.apkg)
 1. [Functional Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis.apkg)
 1. [Functional Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/FunktionalanalysisII.apkg)
-1. [Algebraische Topologie - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%Topologie.apkg)
 1. [Algebraische Topologie und Operatoralgebren.](https://karhunenloeve.github.io/Notes/Topology/Algebraic_Topology_and_Operatoralgebras.apkg)
 1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/LieAlgebra.apkg)
 1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/AnalysisI.apkg)
