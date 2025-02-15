@@ -23,7 +23,7 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Exercises in commutative algebra.](https://karhunenloeve.github.io/Notes/algebra/Übungen%20zur%20kommutativen%20Algebra.pdf)
 1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Lie%20Algebra.apkg)
 
-# Geometry
+## Geometry
 1. [Tangents.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/tangents.pdf)
 1. [First fundamental form.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/first_fundamental.pdf)
 1. [Second fundamental form.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/second_fundamental.pdf)
