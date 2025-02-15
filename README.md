@@ -8,6 +8,10 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Urysohn's Lemma and Tietze Extension Theorem (II).](https://karhunenloeve.github.io/Notes/topology/Lemma_von_Urysohn_und_Tietze_Erweiterungssatz.pdf)
 1. [Quotient Spaces and Compact Spaces.](https://karhunenloeve.github.io/Notes/topology/quotient_spaces_compact_spaces.pdf)
 1. [Compact Spaces - A Repetition.](https://karhunenloeve.github.io/Notes/topology/compact_spaces.pdf)
+1. [Algebraische Topologie Teil I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieI.apkg)
+1. [Algebraische Topologie Teil II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieII.apkg)
+1. [Algebraische Topologie Teil III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieIII.apkg)
+1. [Algebraische Topologie Notizen.](https://karhunenloeve.github.io/Notes/topology/Algebraic_Topology_Notes.pdf)
 
 ## Algebra
 1. [Groups.](https://karhunenloeve.github.io/Notes/algebra/groups.pdf)
@@ -17,8 +21,9 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Field theory exercises.](https://karhunenloeve.github.io/Notes/algebra/field_theory_ex.pdf)
 1. [True or false questions.](https://karhunenloeve.github.io/Notes/algebra/true_false.pdf)
 1. [Exercises in commutative algebra.](https://karhunenloeve.github.io/Notes/algebra/Übungen%20zur%20kommutativen%20Algebra.pdf)
+1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Lie%20Algebra.apkg)
 
-## Curves and Surfaces
+# Geometry
 1. [Tangents.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/tangents.pdf)
 1. [First fundamental form.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/first_fundamental.pdf)
 1. [Second fundamental form.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/second_fundamental.pdf)
@@ -26,23 +31,18 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Geodesics.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/geodesics.pdf)
 1. [Teorema Egregium.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/egregium.pdf)
 1. [Presentations.](https://karhunenloeve.github.io/Notes/curves_and_surfaces/presentations.pdf)
-1. [Analysis III and Stochastic Modeling.](https://karhunenloeve.github.io/Notes/analysis/Analysis_3_StochMod.pdf)
 
-## Optimization
+## Analysis & Optimization
 1. [Discretization and Optimization.](https://karhunenloeve.github.io/Notes/opt/dno.pdf)
 1. [Functional Analysis Teil I.](https://karhunenloeve.github.io/Notes/analysis/FunktionalanalysisI.pdf)
 1. [Functional Analysis Teil II.](https://karhunenloeve.github.io/Notes/analysis/FunktionalanalysisII.pdf)
 1. [Functional Analysis Teil III.](https://karhunenloeve.github.io/Notes/analysis/FunktionalanalysisII.pdf)
 1. [Functional Analysis - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis.apkg)
 1. [Functional Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Funktionalanalysis%20II.apkg)
-1. [Algebraische Topologie Teil I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieI.apkg)
-1. [Algebraische Topologie Teil II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieII.apkg)
-1. [Algebraische Topologie Teil III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieIII.apkg)
-1. [Algebraische Topologie Notizen.](https://karhunenloeve.github.io/Notes/topology/Algebraic_Topology_Notes.pdf)
-1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Lie%20Algebra.apkg)
 1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20I.apkg)
 1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II.apkg)
 1. [Analysis III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20III.apkg)
+1. [Analysis III and Stochastic Modeling.](https://karhunenloeve.github.io/Notes/analysis/Analysis_3_StochMod.pdf)
 
 ## Other Stuff
 1. [Siemens - Literatur und Marktanalyse.](https://karhunenloeve.github.io/Notes/presentations/Siemens-Literatur_und_Marktanalyse.pdf)
