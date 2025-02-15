@@ -38,6 +38,7 @@ This collection serves as an extensive repository encompassing a wide range of m
 1. [Algebraische Topologie Teil I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieI.apkg)
 1. [Algebraische Topologie Teil II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieII.apkg)
 1. [Algebraische Topologie Teil III - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Algebraische%20TopologieIII.apkg)
+1. [Algebraische Topologie Notizen.](https://karhunenloeve.github.io/Notes/anki/Algebraic_Topology_Notes.pdf)
 1. [Lie Algebren - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Lie%20Algebra.apkg)
 1. [Analysis I - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20I.apkg)
 1. [Analysis II - Anki Deck.](https://karhunenloeve.github.io/Notes/anki/Analysis%20II.apkg)
